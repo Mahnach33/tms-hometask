@@ -1,0 +1,3 @@
+rootProject.name = 'tms-hometask'
+include 'lesson1'
+
